@@ -9,7 +9,7 @@ Hey! I'm PC, a musician-turned-programmer on a journey to blend my love of music
 
 ### 👩‍💻 What I Do
 By day, I’m a software engineer focusing on machine learning and music tech projects. By night, I’m probably tinkering with code to see how AI can help musicians express themselves in new, exciting ways. I'm passionate about creating tools that enhance the creative process for artists, giving them new ways to explore and produce sounds that were once only imaginable.
-
+ 
 ### 🔍 Interests & Passions
 - **AI Music Generation** 🎹 - Building algorithms that can compose, arrange, and inspire.
 - **Machine Learning** 📈 - Constantly learning, always exploring, from GANs to RNNs.
